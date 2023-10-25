@@ -1,0 +1,6 @@
+#Home .container-fluid {
+  height: 500px;
+  background-image: url("./doodle.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
